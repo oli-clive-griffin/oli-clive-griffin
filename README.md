@@ -2,7 +2,7 @@
 
 - 🏫 I've just Graduated From Enspiral Dev Academy in Wellington
 - 💻 I'm a Full stack JavaScript Dev using React and Node.js
-- 🌱 I’m currently learning C# and fundamental CS in Harvard's CS50 course
+- 🌱 I’m currently learning C# and Blockchain technologies.
 - 🤔 I’m looking for help with getting started in the Wellington tech scene
 - 📫 How to reach me: 
   - twitter: @oli_c_g
