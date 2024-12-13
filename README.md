@@ -1,7 +1,9 @@
 # Oli Clive-Griffin
-Software / ML engineer
+AI Safety, Mech Interp, Software
 
-some projects:
+www.olicg.xyz
+
+some projects: (various states of polish)
 - [Rusp](https://github.com/oli-clive-griffin/rusp) - A lisp interpreter and Bytecode Compiler/VM written in Rust (name suggestions welcome)
 - [Rax](https://github.com/oli-clive-griffin/rax) - A small deep learning library able to train neural networks in less than 1000 lines of dependency free Rust.
 - [Einchain](https://github.com/oli-clive-griffin/einchain) - expressive method chaining for einsum ops
